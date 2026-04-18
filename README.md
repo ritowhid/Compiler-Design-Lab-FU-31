@@ -6,7 +6,7 @@ The objective is to tokenize a given input string and identify the type of each 
 **Input String:**
 `int sum = 10; a + b = 20;`
 
-## Token Identification
+## Token Identification- Output
 | Token | Type |
 |-------|------|
 | int   | Keyword |
